@@ -20,5 +20,7 @@ A Python automation project that organizes files automatically based on their ex
 - PDFs
 - Images
 - Audio
-- Videos
-- Documents
+- PPTs
+- Word Documents
+- Text Files
+- Python Files
