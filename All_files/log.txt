@@ -1,0 +1,10 @@
+MOVED '1.py' --> PYTHON on June-2026
+MOVED '2.py' --> PYTHON on June-2026
+MOVED 'A.txt' --> TEXT on June-2026
+MOVED 'AM.docx' --> WORD on June-2026
+MOVED 'AS.pdf' --> PDF on June-2026
+MOVED 'ASK.ipynb' --> OTHER on June-2026
+MOVED 'AWS.mp3' --> OTHER on June-2026
+MOVED 'S.txt' --> TEXT on June-2026
+MOVED 'SA.jpg' --> IMAGE on June-2026
+MOVED 'SK.pptx' --> PPT on June-2026

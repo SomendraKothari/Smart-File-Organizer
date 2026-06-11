@@ -2,7 +2,7 @@ import os
 import shutil
 from datetime import datetime
 # Get the base directory where all files are present initially
-base_directory=r'E:\coding\PYTHON\All_files'
+base_directory='All_files'
 # Create mapping for file extensions and thier respective folder
 extensions = {'.txt':'TEXT','.pdf':'PDF','.jpeg':'IMAGE','.py':'PYTHON','.pptx':'PPT','.docx':'WORD','.jpg':'IMAGE'}
 # Create a list of all files present in base directory
